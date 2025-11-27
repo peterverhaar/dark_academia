@@ -1,152 +1,26 @@
 
-- Greek 
-- Latin
-- Rome
-- Homer
-- Socrates
-- Sophocles
-- Plato
-- Tragedy
-- Poetry
-- Dionysus
-- Virgil
-- Iliad
-- Classics
-- Mythology
-- Philology
-- Philosophy
-- Apollo
-- Classicism
-- Bacchus
-- Elegy
-- Verse
-- Ancient
-- Fate
-- Oracle
+Greek 
+Latin
+Rome
+Homer
+Socrates
+Sophocles
+Plato
+Tragedy
+Poetry
+Dionysus
+Virgil
+Iliad
+Classics
+Mythology
+Philology
+Philosophy
+Apollo
+Classicism
+Bacchus
+Elegy
+Verse
+Ancient
+Fate
+Oracle
 
-
-Academia
-- Poet
-- Poetry
-- Hermeneutics
-- Prose
-- Verse
-- Novel
-- Reading
-- Writing
-- Manuscript
-- Book
-- Library
-- Literature
-- Scholar
-- Student
-- Professor
-- Teacher
-- Essay
-- Lecture
-- Academia
-- Philosopy
-- Canon 
-- Seminar
-- University
-- Gothic
-- Romanticism
-- Shakespeare
-- Term
-- Assignment
-- Text
-- Study
-- Knowledge
-- Thesis
-- Research
-- Learning
-- Education
-
-Spaces and Settings
-- Library
-- University
-- Campus
-- College
-- Office
-- Dormitory
-- Church
-- Lecture Hall
-- Faculty
-- Castle
-- Corridor
-- Cathedral
-- Cloister
-- Crypt
-- Tower
-- Ruin
-- House
-- Estate
-
-Mood and Atmosphere
-- Mystery
-- Death
-- Corpse
-- Funeral
-- Ghost
-- Shadow
-- Dusk
-- Dawn
-- Silence
-- Scream
-- Echo
-- Fog
-- Murder
-- Decay
-- Stillness
-- Autumn
-- Madness
-- Secret
-- Passion
-- Loneliness
-- Boredom
-- Sadness
-- Nostalgia
-- Blood
-- Sin
-- Eternal
-- Time
-- Twilight
-- Memory
-- Past
-- History
-- Eternal
-- Redemption
-- Confession
-- Evil
-- Ritual
-- Sacrifice
-- Whisper
-- Crime
-- Dark
-
-Objects
-- tweed
-- coat
-- candle
-- ink 
-- pen
-- notebook
-- quill
-- paper
-- coffee
-- cigarette
-- wine
-- bookcase
-- globe
-- mirror
-- window
-- rain
-- desk
-- fountain
-- fire
-- smoke
-- scarf
-- leaves
-- typewriter
-- violin 
-- clock
