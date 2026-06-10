@@ -5,7 +5,6 @@ ink
 pen
 notebook
 quill
-paper
 coffee
 cigarette
 wine
